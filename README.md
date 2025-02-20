@@ -14,7 +14,7 @@ Before using this script, make sure you have:
 Clone this repository or copy the **manage_dvwa.sh** file to your machine.
 
 ```bash
-git clone https://github.com/your-repo/dvwa-manager.git
+git clone https://github.com/0xR4ndom/dvwa-manager.git
 cd dvwa-manager
 chmod +x manage_dvwa.sh
 ```
