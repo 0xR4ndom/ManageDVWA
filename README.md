@@ -80,5 +80,4 @@ Feel free to propose improvements via **Pull Requests** or report issues through
 
 ---
 📚 **Author**: 0xRandom
-🛠️ **License**: MIT
 
