@@ -79,5 +79,5 @@ NUM_INSTANCES=5  # To start 5 instances instead of 10
 Feel free to propose improvements via **Pull Requests** or report issues through **Issues**.
 
 ---
-📚 **Author**: 0xRandom
+📚 **Author**: 0xR4ndom
 
