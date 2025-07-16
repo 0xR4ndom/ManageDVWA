@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Number of instances
-NUM_INSTANCES=10
+NUM_INSTANCES=2
 
 # Base directory where the instance configurations will be stored
 BASE_DIR="$HOME/dvwa_instances"
@@ -26,7 +26,6 @@ networks:
 
 services:
   dvwa:
-    build: .
     image: ghcr.io/digininja/dvwa:latest
     pull_policy: always
     environment:
